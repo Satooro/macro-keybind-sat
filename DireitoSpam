@@ -1,0 +1,16 @@
+$${
+
+toggle(direito);
+if(direito);
+	log("&6&l* &fSpam botão direito &cOFF");
+	unset();
+	stop;
+else;
+	log("&6&l* &fSpam botão direito &aON");
+	do();
+		key(use);
+		wait(1t);
+	loop;
+endif;
+
+}$$
